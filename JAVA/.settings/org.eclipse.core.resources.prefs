@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/connect/ConnectDB.java=UTF-8
+encoding//src/gui/GD_CaiDat.java=UTF-8
+encoding//src/gui/GD_Chinh.java=UTF-8
+encoding//src/gui/GD_DangNhap.java=UTF-8
+encoding//src/gui/GD_HoaDon.java=UTF-8
+encoding//src/gui/GD_KhachHang.java=UTF-8
+encoding//src/gui/GD_LichSuHoaDon.java=UTF-8
+encoding//src/gui/GD_NhanVien.java=UTF-8
+encoding//src/gui/GD_Sach.java=UTF-8
+encoding//src/gui/GD_ThanhToan.java=UTF-8
+encoding//src/gui/GD_ThemKhachHang.java=UTF-8
+encoding//src/gui/GD_ThongKe.java=UTF-8
+encoding//src/regex/KiemTraNgay.java=UTF-8
+encoding//src/regex/MauRegex.java=UTF-8
+encoding//src/test/Loading.java=UTF-8

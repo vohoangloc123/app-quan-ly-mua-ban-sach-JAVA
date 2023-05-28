@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lib/|gui/UuDai.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="Lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Lib/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="Lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="Lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="Lib/looks-1.2.2.jar"/>
+	<classpathentry kind="lib" path="Lib/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
